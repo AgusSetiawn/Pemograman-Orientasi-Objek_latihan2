@@ -15,7 +15,7 @@
   <i><br> > Sebelum membuat objek, kita perlu mendefinisikan sebuah <b>class</b> sebagai rancangan atau <b>blueprint</b> dari objek yang akan kita buat.</i>
 </li></br>
 <li><strong>Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!</strong><br>
-  <i><br> &nbsp; > <b>Class Diagram</b> &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; > <b>Object Instances</b></br></i>
+  <i><br> &nbsp; > <b>Class Diagram</b> &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &emsp; > <b>Object Instances</b></br></i>
   <br><img src="Dokumentasi/UML%20class%20-%20Page%201.png" height="180" width="250">       &emsp;        <img src="Dokumentasi/UML%20class%20-%20Page%201%20(3).png"   height="180" width="250">  <img src="Dokumentasi/UML%20class%20-%20Page%201%20(2).png" height="180" width="250"></li></br>
 </li></br>
 <li><strong>Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!</strong><br>
