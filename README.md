@@ -4,7 +4,7 @@
 
 # Soal
 
-<img src="Dokumentasi/Screenshot%20(12).png" height="100" width="200">  <img src="Dokumentasi/Screenshot%20(13).png" height="100" width="200">  <img src="Dokumentasi/Screenshot%20(14).png" height="100" width="200">  
+<img src="Dokumentasi/Screenshot%20(12).png" height="150" width="250">  <img src="Dokumentasi/Screenshot%20(13).png" height="150" width="250">  <img src="Dokumentasi/Screenshot%20(14).png" height="150" width="250">  
 
 # Jawaban
 
