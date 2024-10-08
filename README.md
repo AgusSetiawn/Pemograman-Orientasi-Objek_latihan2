@@ -39,6 +39,7 @@
 **Buatlah kode program java untuk:**
 * Mendeklarasikan class Person, dengan atribut Nama,JenisKelamin, Umur
 * Buatlah dua buah objek dari class Person bernama Anton dan Riko
+
 <br/>
 
 ### Kode
@@ -55,3 +56,32 @@
 
 <br/>
 
+<img src="Dokumentasi/Screenshot%202024-10-09%20025202.png">
+
+<br/>
+
+## ● Latihan 3
+
+**Buatlah kode java untuk:**
+* Mendeklarasikan class AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
+* Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses
+
+<br/>
+
+### Kode
+
+<br/>
+
+<img src="Dokumentasi/code2.png">
+
+<a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan2/blob/main/Kode%20Java/AkunBank/AkunBank.java><strong><i>Salin Kode</i></strong></a>
+
+<br/>
+
+### Output
+
+<br/>
+
+<img src="Dokumentasi/Screenshot%202024-10-09%20025642.png">
+
+<br/>
