@@ -11,13 +11,15 @@
 ## ● Latihan 1
 
 <ol>
-<li><strong>Apa yang harus didefinisikan sebelum membuat objek?</strong>
+<li><strong>Apa yang harus didefinisikan sebelum membuat objek?</strong><br>
   <i><br> > Sebelum membuat objek, kita perlu mendefinisikan sebuah <b>class</b> sebagai rancangan atau <b>blueprint</b> dari objek yang akan kita buat.</i>
 </li></br>
-<li><strong>Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko</strong>
-  <i><br> > Sebelum membuat objek, kita perlu mendefinisikan sebuah <b>class</b> sebagai rancangan atau <b>blueprint</b> dari objek yang akan kita buat.</i>
+<li><strong>Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko!</strong><br>
+  <i><br> &nbsp; > <b>Class Diagram</b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; > <b>Object Instances</b></br></i>
+  <br><img src="Dokumentasi/UML%20class%20-%20Page%201.png" height="210" width="295">       &emsp;        <img src="Dokumentasi/UML%20class%20-%20Page%201%20(3).png"   height="210"    width="295">  <img src="Dokumentasi/UML%20class%20-%20Page%201%20(2).png" height="210" width="295"></li></br>
 </li></br>
-<li><strong>Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo</strong>
+<li><strong>Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!</strong><br>
   <i><br> > Sebelum membuat objek, kita perlu mendefinisikan sebuah <b>class</b> sebagai rancangan atau <b>blueprint</b> dari objek yang akan kita buat.</i>
 </li></br>
 </ol>
+
