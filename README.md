@@ -2,11 +2,21 @@
 
 ## `Nama : Agus Setiawan Nim : 312310597 Kelas : TI.23.A6`
 
+
+</br>
+
 # Soal
+
+</br>
 
 <img src="Dokumentasi/Screenshot%20(12).png" height="180" width="270">  <img src="Dokumentasi/Screenshot%20(13).png" height="180" width="270">  <img src="Dokumentasi/Screenshot%20(14).png" height="180" width="270">  
 
+
+</br>
+
 # Jawaban
+
+</br>
 
 ## ● Latihan 1
 
@@ -23,4 +33,11 @@
   </br><img src="Dokumentasi/UML%20class%20-%20Page%202.png" height="205" width="350"> &emsp; <img src="Dokumentasi/UML%20class%20-%20Page%203.png" height="205" width="350">
 </li></br>
 </ol>
+
+## ● Latihan 2
+
+**Buatlah kode program java untuk:**
+* Mendeklarasikan class Person, dengan atribut Nama,JenisKelamin, Umur
+* Buatlah dua buah objek dari class Person bernama Anton dan Riko
+<br/>
 
