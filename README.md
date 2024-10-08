@@ -41,3 +41,10 @@
 * Buatlah dua buah objek dari class Person bernama Anton dan Riko
 <br/>
 
+### Kode
+
+<br/>
+
+<img src="Dokumentasi/code.png">
+
+<a href=>Salin Kode</a>
