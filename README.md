@@ -48,3 +48,10 @@
 <img src="Dokumentasi/code.png">
 
 <a href=https://github.com/AgusSetiawn/Pemograman-Orientasi-Objek_latihan2/blob/5f23b0fa5be275f0e7c575a432315fa401aee66e/Kode%20Java/Person/Person.java><strong><i>Salin Kode</i></strong></a>
+
+<br/>
+
+### Output
+
+<br/>
+
