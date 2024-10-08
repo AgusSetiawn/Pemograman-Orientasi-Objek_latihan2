@@ -19,8 +19,8 @@
   <br><img src="Dokumentasi/UML%20class%20-%20Page%201.png" height="180" width="250">       &emsp;        <img src="Dokumentasi/UML%20class%20-%20Page%201%20(3).png"   height="180" width="250">  <img src="Dokumentasi/UML%20class%20-%20Page%201%20(2).png" height="180" width="250"></li></br>
 </li></br>
 <li><strong>Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!</strong><br>
-  <i><br> > <b>Class Diagram</b></br></i>
-  </br><img src="Dokumentasi/UML%20class%20-%20Page%202.png" height="180" width="350">
+  <i><br> > <b>Class Diagram</b> &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &emsp; &nbsp;  > <b>Object Instances</b></br></i>
+  </br><img src="Dokumentasi/UML%20class%20-%20Page%202.png" height="205" width="350"> <img src="Dokumentasi/UML%20class%20-%20Page%203.png" height="205" width="350">
 </li></br>
 </ol>
 
