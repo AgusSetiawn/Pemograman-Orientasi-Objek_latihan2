@@ -1,6 +1,6 @@
 # Pemograman-Orientasi-Objek_latihan2
 
-# <p align="center"> <strong>Nama : <i>Agus Setiawan</i> Nim : <i>312310597</i> Kelas : <i>TI.23.A6</i></strong></p>
+## `Nama : Agus Setiawan Nim : 312310597 Kelas : TI.23.A6`
 
 # Soal
 
