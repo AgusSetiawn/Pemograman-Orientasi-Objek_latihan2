@@ -20,7 +20,7 @@
 </li></br>
 <li><strong>Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!</strong><br>
   <i><br> > <b>Class Diagram</b> &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &emsp; &nbsp;  > <b>Object Instances</b></br></i>
-  </br><img src="Dokumentasi/UML%20class%20-%20Page%202.png" height="205" width="350"> <img src="Dokumentasi/UML%20class%20-%20Page%203.png" height="205" width="350">
+  </br><img src="Dokumentasi/UML%20class%20-%20Page%202.png" height="205" width="350"> &emsp; <img src="Dokumentasi/UML%20class%20-%20Page%203.png" height="205" width="350">
 </li></br>
 </ol>
 
